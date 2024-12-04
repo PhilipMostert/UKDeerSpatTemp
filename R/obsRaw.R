@@ -1,10 +1,4 @@
-#Observations
- #PA
- #BTO
- #Mammal atlas project
 
- #PO
- #iNat
 library(dplyr)
 library(tidyr)
 library(ggplot2)
